@@ -1,0 +1,1 @@
+Download "MBZUAI/LaMini-T5-738M" model from hugging face using code from trial.ipynb
